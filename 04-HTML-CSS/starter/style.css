@@ -1,0 +1,25 @@
+* {
+  margin: 3;
+  padding: 2;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(225, 195, 170);
+  font-family: "Segoe UI";
+  font-size: 18px;
+  padding: 40px;
+}
+h1 {
+  font-size: 50px;
+}
+.first {
+  color: gray;
+}
+#your-name {
+  background-color: beige;
+  border: 2px solid #333;
+  padding: 20px;
+}
+#profile-picture {
+  width: 200px;
+}
